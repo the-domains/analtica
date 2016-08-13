@@ -1,4 +1,3 @@
-layout_spectrum: 0.6220139090437442
 typography_spectrum: 0.07983496715314686
 color:
   brandStrength: 0.5778693619649857
@@ -11,4 +10,6 @@ color:
     - '#FFFF9D'
     - '#C9DE55'
     - '#7D9100'
+layout_spectrum: 0.6220139090437442
 name: Analítica
+title: Analítica
