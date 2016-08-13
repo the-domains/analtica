@@ -6,9 +6,9 @@ color:
   saturation: 0.5683649762067944
   rhythmicContrast: 0.7777964216656983
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#354242'
+    - '#ACEBAE'
+    - '#FFFF9D'
+    - '#C9DE55'
+    - '#7D9100'
 name: Analítica
